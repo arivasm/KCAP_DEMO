@@ -1,7 +1,7 @@
 pandas
 numpy
 SPARQLWrapper
-pyDatalog==0.17.1
+pyDatalog
 networkx
 matplotlib
 ipycytoscape
