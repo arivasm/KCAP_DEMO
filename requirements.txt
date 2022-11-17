@@ -1,0 +1,13 @@
+pandas
+numpy
+SPARQLWrapper
+pyDatalog==0.17.1
+networkx
+matplotlib
+ipycytoscape
+ipywidgets
+voila
+voila-material
+bqplot
+IPython
+scipy
