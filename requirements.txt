@@ -1,7 +1,6 @@
 pandas
 numpy
 SPARQLWrapper
-pyDatalog
 networkx
 matplotlib
 ipycytoscape
@@ -11,3 +10,4 @@ voila-material
 bqplot
 IPython
 scipy
+pyDatalog
